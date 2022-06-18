@@ -1,0 +1,16 @@
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.exe
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.deps.json
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.runtimeconfig.json
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.runtimeconfig.dev.json
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.dll
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\bin\Debug\net5.0\Homework_ConsoleApp.pdb
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.AssemblyInfo.cs
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.dll
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\refint\Homework_ConsoleApp.dll
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.pdb
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\Homework_ConsoleApp.genruntimeconfig.cache
+C:\Users\firat\source\repos\Homework_ConsoleApp\Homework_ConsoleApp\obj\Debug\net5.0\ref\Homework_ConsoleApp.dll
