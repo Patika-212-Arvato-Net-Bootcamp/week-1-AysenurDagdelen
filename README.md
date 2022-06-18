@@ -10,3 +10,5 @@ Hedefler:
 *satılacak ürün seçilir. adet seçilir. (Repositories/OrderRepository içerisindeki TakeOrder() metotu ile sağlandı.)
 
 *kayıt alındı der ve siparişleri lister. (Repositories/OrderRepository içerisindeki GetOrders() metotu ile sağlandı.)
+
+(ödevde istenmediği için girilen verilerin doğrulamaları ve kontrolleri yapılmadı.)
